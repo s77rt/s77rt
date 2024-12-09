@@ -1,5 +1,4 @@
-### Hi there 👋
-- 📫 How to reach me: Telegram [@s77rt](https://t.me/s77rt)
+Telegram [@s77rt](https://t.me/s77rt)
 
 <!--
 **s77rt/s77rt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
