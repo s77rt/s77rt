@@ -1,1 +1,2 @@
-- Contact: admin@abdelhafidh.com
+- Email: admin@abdelhafidh.com
+- WhatsApp: @s77rt
